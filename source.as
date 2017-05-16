@@ -500,4 +500,4 @@ function reset(e:MouseEvent):void
 		right_count =0;
 		wrong_count =0;
 		delay
-	}
+}
